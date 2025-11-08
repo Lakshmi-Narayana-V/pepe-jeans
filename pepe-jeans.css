@@ -1,0 +1,12 @@
+.card{
+    margin-bottom: 30px;
+}
+.nav-link{
+    
+    margin: 10px;
+    padding: 8px 20px !important;
+}
+header{
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
